@@ -11,6 +11,7 @@
         width: 74px;
         height: 10px;
         z-index: 50;
+        text-decoration: none;
       }
       
 .header-nav{
@@ -29,6 +30,7 @@
         width: 52px;
         height: 11px;
         z-index: 47;
+        text-decoration: none;
 }
 .M{
         font-size: 14px;
@@ -43,6 +45,7 @@
         width: 43px;
         height: 11px;
         z-index: 48;
+        text-decoration: none;
 }
 .Ph{ 
         font-size: 14px;
@@ -57,6 +60,7 @@
         width: 88px;
         height: 11px;
         z-index: 49;
+        text-decoration: none;
 }
 .img {
     background-image: url("images/image.png");
@@ -81,6 +85,7 @@
     height: 11px;
     z-index: 39;
     margin-top: 37px;
+    text-decoration: none;
   }
   .Mtj {
     font-size: 30px;
@@ -142,6 +147,7 @@
     z-index: 30;
     margin-left: 60px;
     margin-top: 37px;
+    text-decoration: none;
   }
   .lorem2{
     font-size: 14px;
@@ -178,6 +184,7 @@
         width: 85px;
         height: 11px;
         z-index: 19; 
+        text-decoration: none;
   }
   .lorem3 {
     font-size: 14px;
@@ -215,6 +222,7 @@
     height: 11px;
     z-index: 10;
     margin-left: 60px;
+    text-decoration: none;
   }
   .de{
         font-size: 30px;
@@ -252,6 +260,7 @@
     height: 298px;
     z-index: 13;
     margin-left: 60px;
+    ;
   }
   .lm {
     font-size: 20px;
